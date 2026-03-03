@@ -8,9 +8,11 @@ GitHub Actions runs your code in an isolated VM, and Sigstore signs an attestati
 
 ## Try It: Base Sepolia Faucet
 
-![Claims](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Familler%2Fgithub-zktls%2Fdata%2Fexamples%2Fleaderboard%2Fclaims.json&query=%24.stats.totalClaims&label=Claims&color=blue)
+[![Claims](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Familler%2Fgithub-zktls%2Fdata%2Fexamples%2Fleaderboard%2Fclaims.json&query=%24.stats.totalClaims&label=Claims&color=blue)](https://sepolia.basescan.org/address/0x72cd70d28284dD215257f73e1C5aD8e28847215B)
 ![Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Familler%2Fgithub-zktls%2Fdata%2Fexamples%2Fleaderboard%2Fclaims.json&query=%24.stats.uniqueUsers&label=Users&color=green)
 ![ETH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Familler%2Fgithub-zktls%2Fdata%2Fexamples%2Fleaderboard%2Fclaims.json&query=%24.stats.totalEth&label=Base%20Sepolia%20ETH&color=purple)
+
+> **Faucet contract:** [`0x72cd70d28284dD215257f73e1C5aD8e28847215B`](https://sepolia.basescan.org/address/0x72cd70d28284dD215257f73e1C5aD8e28847215B)
 
 Claim Base Sepolia testnet ETH by proving you have a GitHub account.
 
