@@ -15,6 +15,12 @@ claim-test/
 attestation.json
 certificate.json
 identity-proof/
+bundle.json
+claim.json
+inputs.bin
+inputs.json
+proof.bin
+proof.hex
 browser-container/proof-[0-9]*/
 browser-container/data/
 zk-proof/circuits/proof.json
