@@ -2,6 +2,15 @@
   "claims": [
     {
       "username": "therealwiki",
+      "recipient": "0x111db654ecd8756188e03746c1bcff74fd749791",
+      "amount": "1000000000000000",
+      "amountEth": "0.001000",
+      "txHash": "0x553249719006d322e7a2ab85c0bacd65ba54932547add2e54b928f49d13f10c0",
+      "timestamp": "2026-03-12T03:54:20.000Z",
+      "block": "38759686"
+    },
+    {
+      "username": "therealwiki",
       "recipient": "0x97e7e0c3ff7e2d7e9150678cb96a0c8b1c18e6c0",
       "amount": "1000000000000000",
       "amountEth": "0.001000",
@@ -142,15 +151,15 @@
     },
     {
       "username": "therealwiki",
-      "claims": 1,
-      "totalWei": "1000000000000000",
-      "totalEth": "0.001000"
+      "claims": 2,
+      "totalWei": "2000000000000000",
+      "totalEth": "0.002000"
     }
   ],
   "stats": {
-    "totalClaims": 14,
+    "totalClaims": 15,
     "uniqueUsers": 3,
-    "totalEth": "0.013524"
+    "totalEth": "0.014524"
   },
-  "updatedAt": "2026-03-12T00:56:56.082Z"
+  "updatedAt": "2026-03-12T06:38:53.823Z"
 }
